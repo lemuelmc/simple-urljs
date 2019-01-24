@@ -1,0 +1,24 @@
+{
+  "name": "simple-urljs",
+  "version": "0.0.1",
+  "description": "Simple URL utility for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemuelmc/simple-urljs.git"
+  },
+  "keywords": [
+    "simple",
+    "url",
+    "utility"
+  ],
+  "author": "Lemuel Raganas <lemuel.raganas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemuelmc/simple-urljs/issues"
+  },
+  "homepage": "https://github.com/lemuelmc/simple-urljs#readme"
+}
