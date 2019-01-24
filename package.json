@@ -1,6 +1,6 @@
 {
   "name": "simple-urljs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple URL utility for javascript",
   "main": "index.js",
   "scripts": {
