@@ -5,7 +5,7 @@
  **/
 
 var LibUrl = require('url');
-var Val = require('./val-util');
+var Val = require('simple-valjs');
 
 class SimpleUrljs {
 

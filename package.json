@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lemuelmc/simple-urljs/issues"
   },
-  "homepage": "https://github.com/lemuelmc/simple-urljs#readme"
+  "homepage": "https://github.com/lemuelmc/simple-urljs#readme",
+  "dependencies": {
+    "simple-valjs": "0.0.1"
+  }
 }
