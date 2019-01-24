@@ -9,11 +9,20 @@ var Val = require('./val-util');
 
 class SimpleUrljs {
 
+    /**
+     * 
+     * @param {string} url 
+     */
     constructor(url) {
         this.url = url;
         this.libUrl = LibUrl.parse(url);
     }
 
+    /**
+     * 
+     * @param {string} param 
+     * @returns {string} string | null
+     */
     searchParam(param) {
         var results = new RegExp('[\?&]' + param + '=([^&#]*)').exec(this.url);
 
